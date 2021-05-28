@@ -1,0 +1,18 @@
+
+
+package labStringConcatenation;
+
+public class labStringConcatenation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String beginning = "Hello";
+
+		   String end = " World";
+		   String combo = beginning + end;
+		   
+		   System.out.println(combo);
+
+	}
+
+}
